@@ -1,0 +1,30 @@
+/* google fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header carousel slider  */
+
+.img-size-slider{
+    width: 1314px;
+    height: 576px;
+}
+.slider-head-text{
+    font-size: 48px;
+}
+.btn-custom{
+    width: 168px;
+    height: 44px;
+    border-radius: 5px;
+    background-image: linear-gradient(#538FFB, #5B54FA);
+    color: white;
+    border: 0px;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn-custom:hover {
+    text-decoration: underline;
+}
