@@ -8,7 +8,7 @@ body{
 /* header carousel slider  */
 
 .img-size-slider{
-    width: 1314px;
+    width: 1325px;
     height: 576px;
 }
 .slider-head-text{
@@ -27,4 +27,10 @@ body{
 }
 .btn-custom:hover {
     text-decoration: underline;
+}
+@media only screen and (max-width:688px){
+    .img-size-slider{
+        max-width: 100%;
+        height: 700px;
+    }
 }
