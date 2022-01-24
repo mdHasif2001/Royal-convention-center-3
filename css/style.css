@@ -6,10 +6,14 @@ body{
 }
 
 /* header carousel slider  */
+.cutom-nav-text{
+    font-size: 22px;
+    font-weight: 700;
+}
 
 .img-size-slider{
     width: 1325px;
-    height: 576px;
+    height: 740px;
 }
 .slider-head-text{
     font-size: 48px;
@@ -27,6 +31,19 @@ body{
 }
 .btn-custom:hover {
     text-decoration: underline;
+}
+
+/* cetagories  */
+
+.custom-categories{
+    background-image: linear-gradient(#538FFB, #5B54FA);
+
+}
+
+.fas{
+    font-size: 46px;
+    padding-right: 20px;
+    color: white;
 }
 
 
