@@ -73,7 +73,10 @@ body{
 .btn-package-custom:hover {
     text-decoration: underline;
 }
-
+.badge-custom{
+    margin-left: 220px;
+    background-color: #FF4E4E;
+}
 
 
 
